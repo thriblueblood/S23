@@ -1,0 +1,17 @@
+Ant
+Bee
+Butterfly
+Caterpillar
+Cockroach
+Dragonfly
+Fly
+Insect
+Grasshopper
+Hornet
+Locust
+Louse
+Mosquito
+Scorpion
+Stinkbug
+Termite
+Wasp
